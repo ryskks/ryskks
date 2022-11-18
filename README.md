@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tokushima University.
 - 🌱 I’m currently learning shell, python, machine learning, nuclear medicine.
-- 👯 I’m looking to collaborate on anyone.
-- 🤔 I’m looking for help with anyone.
+- 👯 I’m looking to collaborate on anyone!
+- 🤔 I’m looking for help with anyone!
